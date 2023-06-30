@@ -1,0 +1,4 @@
+#ignores all datasets in csv
+*.csv
+
+random
